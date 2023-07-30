@@ -1,6 +1,6 @@
 {
-  "short_name": "auth-jwt",
-  "name": "auth-jwt",
+  "short_name": "auth-basic",
+  "name": "auth-basic",
   "icons": [
     {
       "src": "favicon.ico",
