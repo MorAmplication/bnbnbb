@@ -1,5 +1,5 @@
 {
-  "name": "@auth-jwt/server",
+  "name": "@auth-basic/server",
   "private": true,
   "scripts": {
     "start": "nest start",

@@ -1,5 +1,5 @@
 {
-  "name": "@auth-jwt/admin",
+  "name": "@auth-basic/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
